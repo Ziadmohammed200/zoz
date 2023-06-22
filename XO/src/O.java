@@ -1,12 +1,12 @@
 public class O {
-    private String pathOfO;
-    public int chance=0;
-    public O (String pathOfX)
+    private String pathofO;
+
+    public O (String pathofO)
     {
-        this.pathOfO=pathOfO;
+        this.pathofO=pathofO;
     }
 
     public String getPathOfO() {
-        return pathOfO;
+        return pathofO;
     }
 }
